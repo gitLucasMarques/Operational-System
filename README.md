@@ -1,2 +1,2 @@
-# Sistemas Operacionais
-Repositório destinado a documentação e desenvolvimento de projetos da disciplina de Sistemas Operacionais do ICT/UNIFESP 1/2024.
+# Operating Systems
+Repository for documentation and project development in the Operating Systems course at ICT/UNIFESP 1/2024.
